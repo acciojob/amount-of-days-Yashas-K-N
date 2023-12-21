@@ -8,6 +8,6 @@ function daysOfAYear(year) {
 	}
 
 }
-let result = return;
+ result = return;
 console.log(result);
 daysOfAYear();
