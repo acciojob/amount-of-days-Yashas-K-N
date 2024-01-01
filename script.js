@@ -4,10 +4,10 @@ function daysOfAYear(year) {
 		if(year%100 != 0){
 	    console.log("366");
 	}
-		else(year%400 == 0){
-			console.log("366")
+		else if(year%400 == 0){
+			console.log("366");
 		}
-}
+
 		else  {
 		 console.log("365");
 	}
